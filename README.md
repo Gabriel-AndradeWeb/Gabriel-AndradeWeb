@@ -1,4 +1,4 @@
-###  OLÁ, SEJA BEM VINDO MEU PERFIL  🌟🌟🌟🌟
+###  Olá, SEJA BEM VINDO MEU PERFIL  🌟🌟🌟🌟
 
 <div align="center">
   <a href="https://github.com/Gabriel-AndradeWeb
