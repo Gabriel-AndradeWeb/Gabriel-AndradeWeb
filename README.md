@@ -1,10 +1,9 @@
-###  Olá, Seja bem Vindp !!!  
-<div align="center">
-  <a href="https://github.com/Gabriel-AndradeWeb
-">
+###  Olá, Seja bem Vindo !!!  
+
+  <a href="https://github.com/Gabriel-AndradeWeb">
  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-AndradeWeb&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+
   
   
 ### Estou aprendendo
