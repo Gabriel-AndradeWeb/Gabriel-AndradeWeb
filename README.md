@@ -1,4 +1,4 @@
-###  Olá, Seja vem vindo !!! 👋🏾
+###  Olá, Seja Bem Vindo !!! 👋🏾
 <div align="center">
   <a href="https://github.com/Gabriel-AndradeWeb
 ">
