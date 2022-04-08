@@ -4,7 +4,8 @@
  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-AndradeWeb&layout=compact&langs_count=7&theme=highcontrast"/>
 
-  
+  <br>
+  <br>
   
 ### Estou aprendendo
   <div style="display: inline_block"><br>
