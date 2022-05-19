@@ -1,5 +1,5 @@
 ###  Olá, Seja Bem Vindo !!! 👋🏾
-<div align="">
+<div align="center">
   <a href="https://github.com/Gabriel-AndradeWeb
 ">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-AndradeWeb&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -8,15 +8,14 @@
   
   
 ### Estou estudando
-  <div style="display: inline_block"><br>
+  <div style="display: space between"><br>
   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     
- <img align="right" alt="Stitch" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/904157735728340993/948695017566896208/FNO4.gif">
- 
+   <img align="right" alt="Rafa-pic" height="170" style="border-radius: 50px;" src="https://s2.glbimg.com/rKq2WZ6FCFPCXmugfhDiFGAHikU=/e.glbimg.com/og/ed/f/original/2021/11/30/giphy_6.gif">
 </div>
 
 ### Ferramentas e Tecnologias
