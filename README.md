@@ -1,5 +1,5 @@
 ###  Olá, Seja Bem Vindo !!! 👋🏾
-<div align="center">
+<div align="">
   <a href="https://github.com/Gabriel-AndradeWeb
 ">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-AndradeWeb&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -15,9 +15,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     
-  <img align="right" alt="Stitch" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/904157735728340993/948695017566896208/FNO4.gif">
-
-
+ <img align="right" alt="Stitch" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/904157735728340993/948695017566896208/FNO4.gif">
+ 
 </div>
 
 ### Ferramentas e Tecnologias
