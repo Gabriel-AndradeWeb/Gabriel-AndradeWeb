@@ -8,14 +8,14 @@
   
   
 ### Estou estudando
-  <div style="display: space between"><br>
+  <div style="display: inline-block"><br>
   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     
-   <img align="right" alt="Rafa-pic" height="170" style="border-radius: 50px;" src="https://s2.glbimg.com/rKq2WZ6FCFPCXmugfhDiFGAHikU=/e.glbimg.com/og/ed/f/original/2021/11/30/giphy_6.gif">
+   <img align="right" alt="Mario" height="200" style="border-radius:90px;" src="https://media.discordapp.net/attachments/904157735728340993/976965767838961774/unknown.png?width=1202&height=676">
 </div>
 
 ### Ferramentas e Tecnologias
