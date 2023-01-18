@@ -1,10 +1,5 @@
 ###  Olá, Seja Bem Vindo !!! 👋🏾
-<div align="center">
-  <a href="https://github.com/Gabriel-AndradeWeb
-">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-AndradeWeb&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-AndradeWeb&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+
   
   
 ### Estou estudando
@@ -19,12 +14,14 @@
 </div>
 
 ### Ferramentas e Tecnologias
-  
+
+<div style="display: inline-block">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
           
-          
+<div>        
   
   ###
   
